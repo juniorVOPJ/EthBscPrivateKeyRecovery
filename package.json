@@ -1,0 +1,18 @@
+{
+  "name": "key_recovery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "recovery_keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "base-58": "^0.0.1",
+    "bs58": "^6.0.0",
+    "ethers": "^6.13.5",
+    "tronweb": "^6.0.1"
+  }
+}
